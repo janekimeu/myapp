@@ -1,0 +1,78 @@
+.home {
+    margin: 16px auto;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 16px 18px;
+}
+
+hr {
+    border: 1px  solid mediumslateblue;
+}
+
+.brief-col div {
+    border-right: 1px solid mediumslateblue;
+    /*padding-right: 30px;*/
+    /*padding-left: 30px;*/
+}
+
+.brief-col p {
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+#services li a {
+    color: white;
+}
+
+.service-text {
+    /*margin-top: 10%;*/
+    font-size: larger;
+}
+
+.specialty-title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #462be0;
+}
+
+.condition-text {
+    background: mediumslateblue;
+    color: white;
+}
+
+form {
+    /*background: #462be0;*/
+    padding: 15px;
+    border-radius: 15px;
+}
+
+input, textarea, button {
+    margin: 8px 0;
+
+}
+
+.buttons {
+    width: 100%;
+    display: flex;
+    /*align-items: center;*/
+    justify-content: center;
+}
+
+.contact {
+    border-radius: 15px;
+    border: 2px solid mediumslateblue;
+}
+
+.footer-link, .footer-link:hover {
+    color: white;
+}
+
+boom {
+    color: lightblue;
+}
+
+
+
+
+
+
